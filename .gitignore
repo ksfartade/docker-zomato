@@ -7,3 +7,5 @@
 
 *.txt
 **/migrations/
+
+/backend/staticfiles/
