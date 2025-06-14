@@ -9,3 +9,7 @@ def main():
     print("Starting the calculation...")
     result = cal(5, 3)
     print(f"The result is: {result}")
+
+if __name__ == "__main__":
+    main()
+    print("Calculation completed.")
