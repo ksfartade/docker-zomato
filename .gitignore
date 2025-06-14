@@ -8,4 +8,4 @@
 *.txt
 **/migrations/
 
-/backend/staticfiles/
+/backend/staticfiles/ 
